@@ -1,2 +1,3 @@
 # CHE290-Aspen-Lab-6
 Aspen Plus simulation of an LNG process, done during Lab 6 of CHE290
+A lab report analysis the results of the simulation was written, but cannot be shared without the risk of violating Policy 71...
